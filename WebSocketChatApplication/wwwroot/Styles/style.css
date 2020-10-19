@@ -1,0 +1,17 @@
+﻿table {
+    border: 0
+}
+
+.message-data {
+    font-family: Consolas, Courier New, Courier, monospace;
+}
+
+.message-server {
+    background-color: red;
+    color: white
+}
+
+.message-client {
+    background-color: green;
+    color: white
+}
